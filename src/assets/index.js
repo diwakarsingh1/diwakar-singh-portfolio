@@ -29,6 +29,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import robot from "./robot.gif";
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  robot,
 };
