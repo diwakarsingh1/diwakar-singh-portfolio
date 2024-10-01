@@ -53,6 +53,7 @@ const About = () => {
         SonarQube. I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and highly available solutions that solve
         real-world problems. Let's work together to bring your ideas to life!
+        798765456489dfjhkl;uytrewsdxcvbnmlkoiuytresdazxfcghjkhgfytdfghvhjghj'
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
